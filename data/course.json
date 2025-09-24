@@ -1,0 +1,55 @@
+{
+  "term": "Summer",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "legacy_uid": "32f220ed-e471-5401-2368-c9c886ee18a6",
+  "instructors": {
+    "content": [
+      "5176fe52-fdb5-aee4-a219-93d96a41b1c0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a16f8e98-8308-6752-3065-9f7469f0fd3d",
+    "website": "15-316-building-and-leading-effective-teams-summer-2005"
+  },
+  "course_title": "Building and Leading Effective Teams",
+  "course_description": "This course is an intensive one-week introduction to leadership, teams, and learning communities. The class meets daily for\u00a0five days. The class serves as an introduction of concepts and uses a variety of experiential exercises to develop individual and team skills, as well as supportive relationships within the Leaders for Manufacturing class.\u00a0As part of the focus on leadership, it discusses the idea of the \"Universe Within\", the images, thoughts, and experiences that are internal to all leaders.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.316",
+  "course_image_thumbnail": {
+    "content": "e9582707-4dac-a6c8-8c6d-04ebce8ba5c8",
+    "website": "15-316-building-and-leading-effective-teams-summer-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments"
+  ],
+  "site_uid": "406f3402-d25a-4595-b012-82e8163f8f31",
+  "site_short_id": "15.316-summer-2005",
+  "site_url_path": "courses/15-316-building-and-leading-effective-teams-summer-2005",
+  "title": "Course Metadata"
+}
